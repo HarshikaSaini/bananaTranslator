@@ -6,7 +6,9 @@ textarea{
     height: 100px;
 }
 button{
-    
     margin-left: 11rem;
-
+}
+h3{
+    display: block;
+    margin-left: 11rem;
 }
