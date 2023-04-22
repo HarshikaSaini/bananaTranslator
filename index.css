@@ -12,3 +12,11 @@ h3{
     display: block;
     margin-left: 11rem;
 }
+div{
+    display: block;
+    width: 70%;
+    margin: auto;
+    height: 10rem;
+    padding: 20px;
+    border: 2px solid black;
+}
