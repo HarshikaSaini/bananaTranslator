@@ -1,22 +1,50 @@
-textarea{
-    width: 70%;
+body{
+    margin: 0px;
+}
+
+textarea {
+    width: 50%;
     display: block;
     margin: auto;
     padding: 20px;
     height: 100px;
+    background-color: rgb(236, 230, 241);
+    margin-top: 25px;
 }
-button{
-    margin-left: 11rem;
+.fontStyling{
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    font-style: oblique;
 }
-h3{
-    display: block;
-    margin-left: 11rem;
+
+button {
+   margin-left: 20rem;
+   width: 20rem;
+   height: 3.5rem;
+   background-color:  rgb(255, 183, 89);
+
 }
+
 div{
+    
+    height: 6rem;
+    width: 99%;
+    background-color:  rgb(255, 183, 89);
+    padding: 10px;
+    
+}
+
+#outputText {
     display: block;
-    width: 70%;
+    width: 50%;
     margin: auto;
-    height: 10rem;
-    padding: 20px;
-    border: 2px solid black;
+    height: 6rem;
+    background-color: rgb(236, 230, 241);
+    border: 1px solid black;
+}
+#footer{
+    margin-top: 2rem;
 }
